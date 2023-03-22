@@ -4,10 +4,28 @@ body{
 header{
     padding: 8px;
 }
-b{
-    padding-left: 400px;
-    font-family: Amatic;
+div#whiteOverlay {
+    background-color: rgba(255, 255, 255, 0.5);
+    background-image: url(https://thumbs.dreamstime.com/b/teenager-pointing-to-side-smiling-31600146.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 20px;
+    text-align: center;
+    color: darkred;
 }
-div#thefirst{
-
+b{
+    padding-left: 550px;
+    font-family: "Amatic SC", sans-serif !important;
+    color: #03295a;
+}
+div#border{
+    background-color: red;
+}
+div#anotherOne{
+    background-image: url(https://media.istockphoto.com/id/1007920036/photo/girl-taking-photos-in-the-public-park.jpg?s=1024x1024&w=is&k=20&c=jIsSi3G2RQhZTUQexg5tfSA_wgO267WBQy86UcTH92U=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    text-align: center;
+    color: darkblue;
 }
